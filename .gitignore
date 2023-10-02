@@ -1,0 +1,5 @@
+.venv
+data
+Copie_de_dcgan_faces_tutorial.ipynb
+dcgan_faces_tutorial.ipynb
+*.pth
