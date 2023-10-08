@@ -1,5 +1,45 @@
 .venv
-data
-Copie_de_dcgan_faces_tutorial.ipynb
+machine_learning/data
+machine_learning/Copie_de_dcgan_faces_tutorial.ipynb
 dcgan_faces_tutorial.ipynb
-*.pth
+machine_learning/classification_label.py
+machine_learning/*.pth
+my-app/
+machine_learning/*.zip
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+my-app/node_modules
+my-app/.pnp
+my-app.pnp.js
+
+# testing
+my-app/coverage
+
+# next.js
+my-app/.next/
+my-app/out/
+
+# production
+my-app/build
+
+# misc
+my-app/.DS_Store
+my-app/*.pem
+
+# debug
+my-app/npm-debug.log*
+my-app/yarn-debug.log*
+my-app/yarn-error.log*
+
+# local env files
+my-app/.env*.local
+
+# vercel
+my-app/.vercel
+
+# typescript
+my-app/*.tsbuildinfo
+my-app/next-env.d.ts
+machine_learning/data_logo.zip
