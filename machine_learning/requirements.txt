@@ -1,0 +1,6 @@
+matplotlib
+torch
+torchvision
+numpy
+cv2
+pandas
