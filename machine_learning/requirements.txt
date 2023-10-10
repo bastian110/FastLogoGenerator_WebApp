@@ -4,3 +4,4 @@ torchvision
 numpy
 cv2
 pandas
+scikit-learn
