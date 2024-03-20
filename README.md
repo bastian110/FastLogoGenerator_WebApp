@@ -14,22 +14,22 @@ This integration showcases the transformative potential of machine learning in c
 - Node.js 14.x+
 - npm/yarn
 
-### Steps
-## Clone the repository:
+## Steps
+### Clone the repository:
 ```bash
 git clone <repository-url>
 ```
-## Install Python dependencies:
+### Install Python dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-## Set up the web application:
+### Set up the web application:
 ```bash
 cd webapp
 npm install
 ```
-### Usage
-## Generating Logos
+## Usage
+### Generating Logos
 Start the FastAPI server:
 ```bash
 uvicorn app:app --reload
@@ -44,7 +44,7 @@ npm run dev
 Open your browser and navigate to the provided URL.
 Enter your logo description and generate logos instantly.
 
-### Features
+## Features
 
 AI-powered logo generation based on text descriptions.
 Comparison benchmarks between GAN, WGAN, and Stable Diffusion models.
