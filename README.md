@@ -17,7 +17,7 @@ This integration showcases the transformative potential of machine learning in c
 ## Steps
 ### Clone the repository:
 ```bash
-git clone <repository-url>
+git clone bastian110/FastLogoGenerator_WebApp
 ```
 ### Install Python dependencies:
 ```bash
@@ -49,7 +49,7 @@ Enter your logo description and generate logos instantly.
 AI-powered logo generation based on text descriptions.
 Comparison benchmarks between GAN, WGAN, and Stable Diffusion models.
 Interactive web application for easy logo creation.
-Technologies Used
 
-AI and Machine Learning: Matplotlib, PyTorch, torchvision, NumPy, OpenCV (cv2), pandas, scikit-learn
+Framework & API Used:
+AI and Machine Learning: Matplotlib, PyTorch, torchvision, NumPy, OpenCV, pandas, scikit-learn, Hugging-Face, Stable diffusion.
 Web Development: Next.js, Tailwind CSS, FastAPI
