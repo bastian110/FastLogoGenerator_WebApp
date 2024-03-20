@@ -33,9 +33,9 @@ npm install
 Start the FastAPI server:
 ```bash
 uvicorn app:app --reload
-Run the Next.js application:
 ```
 
+Run the Next.js application:
 ```bash
 cd webapp
 npm run dev
